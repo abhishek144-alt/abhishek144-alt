@@ -2,6 +2,7 @@
 <h3 align="center">ECE Undergraduate | Aspiring VLSI Design Engineer | RTL Design & Verification</h3>
 
 <p align="center">
+  <a href="https://abhishek144-alt.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhishek-yadav-1088ba296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhishekyaduvanshi144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
