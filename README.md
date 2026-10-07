@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- ==================== HERO SECTION ==================== -->
-  <img src="assets/hero.svg?v=1" alt="Abhishek Yadav — RTL & VLSI Design Engineer" width="100%" />
-
-  <br/><br/>
-
   <!-- ==================== ANIMATED TYPING HEADER ==================== -->
   <a href="https://github.com/abhishek144-alt">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=247BFF&center=true&vCenter=true&width=650&lines=ECE+Undergrad+%40+RKGIT+%7C+CGPA+8.03;RTL+Design+%26+Functional+Verification;Verilog+HDL+%7C+Xilinx+Vivado+%7C+XSim;4-Bit+Processor+%7C+UART+Transceiver+%7C+8-Bit+ALU;Static+Timing+Analysis+(STA)+%7C+Pipelining" alt="Typing SVG" />
