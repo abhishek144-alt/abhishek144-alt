@@ -1,23 +1,17 @@
-[README.md](https://github.com/user-attachments/files/33135088/README.md)
-## Hi there 👋
-
-<!--
-**abhishek144-alt/abhishek144-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some idea# Abhishek Yadav — Animated GitHub Profile
+# Abhishek Yadav — Animated GitHub Profile
 
 A self-contained, GitHub-safe animated profile built around the supplied transparent portraits. The visual system uses **#070b16** deep navy, **#247bff** electric blue, **#ff354f** crimson and off-white typography.
 
 ## Assets
 
 ![Hero](assets/hero.svg?v=1)
+<img width="1200" height="560" alt="stack" src="https://github.com/user-attachments/assets/863508f7-29de-4b27-9f4d-70058b93e40d" /><img width="1200" height="520" alt="hero" src="https://github.com/user-attachments/assets/51ed7c06-e384-4684-b9ad-02639e7545d0" />
+<img width="1200" height="560" alt="connect" src="https://github.com/user-attachments/assets/e35e7ea7-434d-427a-a1ca-54c79038ca3b" />
+<img width="1200" height="620" alt="about-life" src="https://github.com/user-attachments/assets/6e421c6a-67d8-4446-8db4-d1415abab738" />
 
 ![About / Life](assets/about-life.svg?v=1)
 
 ![Stack](assets/stack.svg?v=1)
-<img width="720" height="720" alt="id-dashboard" src="https://github.com/user-attachments/assets/17f49d7b-dbf3-4ae1-aee5-bf086c18591d" /><img width="1200" height="560" alt="connect" src="https://github.com/user-attachments/assets/a014a522-aa3b-4217-839a-8a85e2b7f0ee" />
-<img width="1200" height="620" alt="about-life" src="https://github.com/user-attachments/assets/b825ac4e-d55c-4eaa-9db2-8d1d342b120e" />
-<img width="1200" height="560" alt="stack" src="https://github.com/user-attachments/assets/cd12dcd3-3d81-49f8-a1a2-a4f1c7d6ee03" />
 
 ![ID dashboard](assets/id-dashboard.svg?v=1)
 
@@ -88,21 +82,8 @@ Open `preview.html` locally to inspect all five SVGs, including reduced-motion/s
 - no contribution-city section
 - no invented social/repository counts
 - complete-head/hand framing in the supplied PNG assets
-<img width="1200" height="520" alt="hero" src="https://github.com/user-attachments/assets/e5007ef4-7dcc-43b7-9f81-3f3f8b517cb8" />
-
-
 
 ## Upload exactly these files
 
 Upload the **five files under `assets/`**, plus `README.md` to the root of your profile repository. `preview.html` and the two license files are included for local review/documentation; they are not required for the GitHub profile rendering itself.
-s to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="720" height="720" alt="id-dashboard" src="https://github.com/user-attachments/assets/9d9819ab-8a77-47be-adca-23844e6240c0" />
