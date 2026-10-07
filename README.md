@@ -67,14 +67,6 @@
 
 ---
 
-### 💫 Capabilities & Engineering Life Cycle
-
-<div align="center">
-  <img src="assets/about-life.svg?v=1" alt="About and Life Carousel" width="100%" />
-</div>
-
----
-
 ### 🪐 Planetary Tech Stack & Tooling
 
 <div align="center">
