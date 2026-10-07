@@ -5,18 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=247BFF&center=true&vCenter=true&width=650&lines=ECE+Undergrad+%40+RKGIT+%7C+CGPA+8.03;RTL+Design+%26+Functional+Verification;Verilog+HDL+%7C+Xilinx+Vivado+%7C+XSim;4-Bit+Processor+%7C+UART+Transceiver+%7C+8-Bit+ALU;Static+Timing+Analysis+(STA)+%7C+Pipelining" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <!-- ==================== TECH PILL BADGES ==================== -->
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Verilog_HDL-070B16?style=for-the-badge&logo=microchip&logoColor=247BFF&borderColor=247BFF" alt="Verilog" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Xilinx_Vivado-070B16?style=for-the-badge&logo=amd&logoColor=FF354F&borderColor=FF354F" alt="Vivado" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/RTL_Design-070B16?style=for-the-badge&logo=circuitverse&logoColor=247BFF&borderColor=247BFF" alt="RTL Design" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python_OOP-070B16?style=for-the-badge&logo=python&logoColor=FFD43B&borderColor=25304A" alt="Python" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TCL_Scripting-070B16?style=for-the-badge&logo=gnubash&logoColor=38BDF8&borderColor=25304A" alt="TCL" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/WSL_%2F_Linux-070B16?style=for-the-badge&logo=linux&logoColor=FCC624&borderColor=25304A" alt="Linux" /></a>
-  </p>
-
   <p align="center">
     <a href="https://github.com/abhishek144-alt"><img src="https://img.shields.io/badge/GitHub-abhishek144--alt-247BFF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/abhishek-yadav-1088ba296/"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -67,6 +55,17 @@
 <div align="center">
   <img src="assets/stack.svg?v=1" alt="Technology Stack" width="100%" />
 </div>
+
+<br/>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Verilog_HDL-070B16?style=for-the-badge&logo=microchip&logoColor=247BFF&borderColor=247BFF" alt="Verilog" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Xilinx_Vivado-070B16?style=for-the-badge&logo=amd&logoColor=FF354F&borderColor=FF354F" alt="Vivado" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/RTL_Design-070B16?style=for-the-badge&logo=circuitverse&logoColor=247BFF&borderColor=247BFF" alt="RTL Design" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python_OOP-070B16?style=for-the-badge&logo=python&logoColor=FFD43B&borderColor=25304A" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TCL_Scripting-070B16?style=for-the-badge&logo=gnubash&logoColor=38BDF8&borderColor=25304A" alt="TCL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WSL_%2F_Linux-070B16?style=for-the-badge&logo=linux&logoColor=FCC624&borderColor=25304A" alt="Linux" /></a>
+</p>
 
 <br/>
 
