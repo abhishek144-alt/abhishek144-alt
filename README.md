@@ -19,7 +19,7 @@
 ### ⚡ Engineering Identity & Credentials
 
 <div align="center">
-  <img src="assets/id-dashboard.svg?v=1" alt="Abhishek Yadav ID Dashboard" width="60%" />
+  <img src="assets/id-dashboard.svg?v=2" alt="Abhishek Yadav ID Dashboard" width="60%" />
 </div>
 
 <br/>
