@@ -77,7 +77,7 @@
 
 [Core Domains & Hardware Concepts]
 ├── RTL Design         ; Datapaths, FSMs, control units, pipeline stages
-├── Verification       ; Self-checking testbenches, edge-case coverage, waveform analysis
+├── Functional Verification       ; Self-checking testbenches, edge-case coverage, waveform analysis
 ├── Digital Circuits   ; Combinational/sequential optimization, timing, CMOS fundamentals
 └── Concepts           ; Static Timing Analysis (STA), Pipelining, Metastability prevention
 
