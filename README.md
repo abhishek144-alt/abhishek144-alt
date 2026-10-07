@@ -19,7 +19,7 @@
 ### ⚡ Engineering Identity & Credentials
 
 <div align="center">
-  <img src="assets/id-dashboard.svg?v=2" alt="Abhishek Yadav ID Dashboard" width="60%" />
+  <img src="assets/id-dashboard.svg?v=3" alt="Abhishek Yadav ID Dashboard" width="60%" />
 </div>
 
 <br/>
@@ -173,32 +173,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek144-alt&theme=tokyonight&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&border=25304a" alt="GitHub Streak" width="550" />
   </a>
 </div>
-
----
-
-### 🎓 Education & Certifications
-
-```yaml
-Degree: Bachelor of Technology (B.Tech) in Electronics & Communication Engineering
-Institution: Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad, Uttar Pradesh
-Duration: 2023 – 2027
-CGPA: 8.03 / 10.0 (up to 6th Semester)
-
-Intermediate (Class XII):
-  Institution: MG Inter College, Gorakhpur
-  Year: 2022
-  Score: 75%
-
-High School (Class X):
-  Institution: St. Anthony’s Convent School, Gorakhpur
-  Year: 2020
-  Score: 79%
-
-Professional Certification:
-  Title: Digital Circuits
-  Issuing Body: NPTEL — IIT Kharagpur (2025)
-  Roll Number: NPTEL25EE125S1256600869
-```
 
 ---
 
